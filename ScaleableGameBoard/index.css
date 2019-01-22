@@ -1,0 +1,32 @@
+*{
+	background-color: #000000;
+	color: #FF0000;
+	text-align: center;
+}
+
+div{
+	background-color: #2A2A2A;
+}
+
+.board{
+	display: flex;
+	flex-Direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.playerChoice{
+	font-size:30pt;
+	margin-left:20px;
+}
+
+.staticDiv{
+	width: 525px;
+}
+
+.Tile{
+	font-size: 90pt;
+	background-color: #2A2A2A;
+}
